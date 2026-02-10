@@ -1,6 +1,6 @@
-# Studentify
+# Prashant
 
-Studentify is a Student Productivity + Social Study Community mobile app built with Flutter and Firebase.
+Prashant is a Student Productivity + Social Study Community mobile app built with Flutter and Firebase.
 
 ## What I created
 - Flutter app scaffold (Material3)

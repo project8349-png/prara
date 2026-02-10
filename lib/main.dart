@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
       create: (_) => ThemeService(),
       child: Consumer<ThemeService>(builder: (context, theme, _) {
         return MaterialApp(
-          title: 'Studentify',
+          title: 'Prashant',
           theme: ThemeData(useMaterial3: true, colorSchemeSeed: Colors.indigo, brightness: Brightness.light),
           darkTheme: ThemeData(useMaterial3: true, colorSchemeSeed: Colors.indigo, brightness: Brightness.dark),
           themeMode: theme.isDark ? ThemeMode.dark : ThemeMode.light,
